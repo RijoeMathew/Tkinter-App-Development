@@ -1,0 +1,41 @@
+Total Sales
+#   Item                  Sales        Price per Item     Total
+===============================================================
+1.  Apple                   3              $ 1.00        $ 3.00
+2.  Banana                  4              $ 2.50       $ 10.00
+3.  Orange                  0              $ 1.50        $ 0.00
+4.  Grapefruit              0              $ 3.79        $ 0.00
+5.  Blueberries             0              $ 4.99        $ 0.00
+6.  Mango                   2              $ 2.99        $ 5.98
+7.  Lemonade                0              $ 0.79        $ 0.00
+8.  Watermelon              0              $ 5.00        $ 0.00
+---------------------------------------------------------------
+TOTAL                                                   $ 18.98
+
+
+Lost Sales
+#   Item                  Sales        Price per Item     Total
+===============================================================
+1.  Apple                   3              $ 1.00        $ 3.00
+2.  Banana                  1              $ 2.50        $ 2.50
+3.  Orange                  0              $ 1.50        $ 0.00
+4.  Grapefruit              0              $ 3.79        $ 0.00
+5.  Blueberries             0              $ 4.99        $ 0.00
+6.  Mango                   3              $ 2.99        $ 8.97
+7.  Lemonade                0              $ 0.79        $ 0.00
+8.  Watermelon              0              $ 5.00        $ 0.00
+---------------------------------------------------------------
+TOTAL                                                   $ 14.47
+
+
+Restock
+#   Item                  Demand               20%             Total Demand       Current Stock    From Warehouse
+=================================================================================================================
+1.  Apple                   6                   1                   7                   0                       7
+2.  Banana                  5                   1                   6                   0                       6
+3.  Orange                  0                   0                   0                   5                       0
+4.  Grapefruit              0                   0                   0                   3                       0
+5.  Blueberries             0                   0                   0                   6                       0
+6.  Mango                   5                   1                   6                   0                       6
+7.  Lemonade                0                   0                   0                   6                       0
+8.  Watermelon              0                   0                   0                   8                       0
